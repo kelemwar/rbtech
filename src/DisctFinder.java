@@ -3,6 +3,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
+/*
+Write a program to find all distinct words from a text file. Ignore chars like ".,/-;:" and
+Ignore case sensitivity.
+*/
 public class DisctFinder {
 
     public List<String> getDisct(String fileName){
